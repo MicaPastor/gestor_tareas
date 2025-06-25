@@ -1,0 +1,24 @@
+2025-06-22 21:06:21,697 - INFO - Tarea agregada: ID 6 - Llamar al plomero
+2025-06-22 21:16:36,260 - INFO - Tarea completada: ID 1 - Hacer la compra
+2025-06-22 21:16:36,261 - INFO - Tarea completada: ID 2 - Estudiar para el parcial
+2025-06-22 21:16:36,261 - INFO - Tarea completada: ID 5 - Sacar al perro
+2025-06-22 21:16:36,261 - INFO - Tarea completada: ID 6 - Llamar al plomero
+2025-06-22 21:20:17,078 - INFO - Tarea agregada: ID 7 - Hacer ejercicio
+2025-06-22 21:21:54,865 - INFO - Tarea agregada: ID 8 - pasear
+2025-06-22 21:30:42,897 - INFO - Tarea agregada: ID 9 - Cocinar
+2025-06-22 21:35:04,487 - INFO - Tarea agregada: ID 10 - 
+2025-06-23 19:54:02,458 - INFO - Tarea modificada: ID 1 - Hacer la compra
+2025-06-23 20:02:01,885 - INFO - Tarea modificada: ID 10 - Comprar Regalo
+2025-06-23 20:04:07,710 - INFO - Tarea agregada: ID 11 - motor
+2025-06-23 22:04:39,860 - INFO - Tarea agregada: ID 12 - Bañar al perro
+2025-06-23 22:06:32,109 - INFO - Tarea modificada: ID 10 - Comprar Regalo
+2025-06-23 22:06:47,123 - INFO - Tarea completada: ID 10 - Comprar Regalo
+2025-06-23 22:07:13,831 - INFO - Tarea eliminada: ID 11 - motor
+2025-06-24 19:36:05,909 - INFO - Tarea eliminada: ID 8 - pasear
+2025-06-24 19:38:09,096 - INFO - Tarea modificada: ID 2 - Limpiar la casa
+2025-06-24 19:38:39,262 - INFO - Tarea modificada: ID 5 - Sacar al perro
+2025-06-24 19:39:02,428 - INFO - Tarea modificada: ID 6 - Llamar al plomero
+2025-06-24 19:39:24,666 - INFO - Tarea modificada: ID 7 - Hacer ejercicio
+2025-06-24 19:40:07,560 - INFO - Tarea modificada: ID 9 - Cocinar
+2025-06-24 19:43:27,834 - INFO - Tarea agregada: ID 13 - Dormir 8hrs
+2025-06-24 19:45:12,879 - INFO - Tarea completada: ID 2 - Limpiar la casa

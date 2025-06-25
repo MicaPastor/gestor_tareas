@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "titulo": "Hacer la compra",
+        "descripcion": "Comprar café y arroz",
+        "prioridad": "media",
+        "estado": "completada",
+        "dia": "lunes"
+    },
+    {
+        "id": 2,
+        "titulo": "Limpiar la casa",
+        "descripcion": "baño y cocina",
+        "prioridad": "alta",
+        "estado": "completada",
+        "dia": "sábado"
+    },
+    {
+        "id": 5,
+        "titulo": "Sacar al perro",
+        "descripcion": "el perro debe salir para hacer sus necesidades.",
+        "prioridad": "media",
+        "estado": "pendiente",
+        "dia": "lunes"
+    },
+    {
+        "id": 6,
+        "titulo": "Llamar al plomero",
+        "descripcion": "Pedir al plomero que venga por el calefón.",
+        "prioridad": "media",
+        "estado": "pendiente",
+        "dia": "jueves"
+    },
+    {
+        "id": 7,
+        "titulo": "Hacer ejercicio",
+        "descripcion": "realizar calistenia x4, pecho.",
+        "prioridad": "alta",
+        "estado": "pendiente",
+        "dia": "miércoles"
+    },
+    {
+        "id": 9,
+        "titulo": "Cocinar",
+        "descripcion": "Cocinar para mi cumpleaños.",
+        "prioridad": "alta",
+        "estado": "pendiente",
+        "dia": "martes"
+    },
+    {
+        "id": 10,
+        "titulo": "Comprar Regalo",
+        "descripcion": "Un oso de peluche.",
+        "prioridad": "baja",
+        "estado": "completada",
+        "dia": "viernes"
+    },
+    {
+        "id": 12,
+        "titulo": "Bañar al perro",
+        "descripcion": "Usar shampoo de perro",
+        "prioridad": "baja",
+        "dia": "domingo",
+        "estado": "pendiente"
+    },
+    {
+        "id": 13,
+        "titulo": "Dormir 8hrs",
+        "descripcion": "Todos los días.",
+        "prioridad": "media",
+        "dia": "lunes",
+        "estado": "pendiente"
+    }
+]
